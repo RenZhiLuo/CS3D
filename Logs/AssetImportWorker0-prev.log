@@ -1,0 +1,1237 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1415; Version 2009; 64bit' Language: 'zh' Physical Memory: 16253 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityApp/CS3D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59880
+Successfully changed project path to: D:/UnityApp/CS3D
+D:/UnityApp/CS3D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityApp/CS3D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.14.9676
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001870 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.062 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003138 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.421 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.71 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1974.
+Total: 2.973100 ms (FindLiveObjects: 0.400500 ms CreateObjectMapping: 0.099400 ms MarkObjects: 2.355400 ms  DeleteObjects: 0.115400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Player/Animations/PlayerController.controller
+  artifactKey: Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/PlayerController.controller using Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b886764a60712d0f7dbf99196eaaff') in 0.067722 seconds
+  Import took 0.071662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10076.203640 seconds.
+  path: Assets/Downloads/PolygonStarter/Scenes
+  artifactKey: Guid(6ad88594784deec4d9fdf2dd3a933faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloads/PolygonStarter/Scenes using Guid(6ad88594784deec4d9fdf2dd3a933faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936af0b280de6b927d465f68e3d6b277') in 0.012609 seconds
+  Import took 0.020084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146362 seconds.
+  path: Assets/Downloads/PolygonStarter/Prefabs
+  artifactKey: Guid(4a76af20b1decd340896c06c996c2044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downloads/PolygonStarter/Prefabs using Guid(4a76af20b1decd340896c06c996c2044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2bbef17ec367078000a18dc860b8f38') in 0.008015 seconds
+  Import took 0.011915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.248417 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/PolyartEmission.png
+  artifactKey: Guid(61dc11b64d962ee4386737600bf34b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/PolyartEmission.png using Guid(61dc11b64d962ee4386737600bf34b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3657ede1f3fcbc0714c122cb99e6ba8') in 0.345354 seconds
+  Import took 0.348832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.646440 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_MS.png
+  artifactKey: Guid(7e4a41389ffe24f458e5a1b4b6c554eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_MS.png using Guid(7e4a41389ffe24f458e5a1b4b6c554eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e7ff6890ee62abd23aff954c684a43') in 0.042982 seconds
+  Import took 0.046554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.359899 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_NM.png
+  artifactKey: Guid(a5798ba7ff8d7984c9b50981d6dd8e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_NM.png using Guid(a5798ba7ff8d7984c9b50981d6dd8e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b74fbaf9c1924f1b48adf4f5cf1609') in 0.041831 seconds
+  Import took 0.045303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.262983 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/Polyart.png
+  artifactKey: Guid(6f23319fc780cdc43a22d23a4136c778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/Polyart.png using Guid(6f23319fc780cdc43a22d23a4136c778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef25703059f89487c01c2442860d6772') in 0.012290 seconds
+  Import took 0.016551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.066653 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_EM.png
+  artifactKey: Guid(cf17bce15458a584ba4c432acf10f1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_EM.png using Guid(cf17bce15458a584ba4c432acf10f1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ff0a273869bcc4995ceed62faa0a21') in 0.017545 seconds
+  Import took 0.022030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.193495 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_AO.png
+  artifactKey: Guid(e2d3ffb9e0c5b7a4d95d18b01f2c27e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/PBR_Free_AO.png using Guid(e2d3ffb9e0c5b7a4d95d18b01f2c27e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58f8762716c7be5fa7b05681f03a409') in 0.014952 seconds
+  Import took 0.018545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.582143 seconds.
+  path: Assets/Player/Materials
+  artifactKey: Guid(3e0621bba7df3da4fbc45717ab800e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Materials using Guid(3e0621bba7df3da4fbc45717ab800e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae66365771f4788996849f11965fc67e') in 0.008245 seconds
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.396762 seconds.
+  path: Assets/SciFiWarriorPBRHPPolyart/Textures/HP_Albedo.png
+  artifactKey: Guid(20fc9881d38a91b438bec3ae3db922f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SciFiWarriorPBRHPPolyart/Textures/HP_Albedo.png using Guid(20fc9881d38a91b438bec3ae3db922f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fcec9e97c36f11645ce8481f2265ea') in 0.015886 seconds
+  Import took 0.019034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.114441 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ab349f4dba9c33a9f322ed25a81e24') in 0.185629 seconds
+  Import took 0.189824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.279531 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9d28f530a7495cbfe56084569623e6') in 0.079196 seconds
+  Import took 0.083990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.994536 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd900d2800020ba99c54654881ef1f505') in 0.067307 seconds
+  Import took 0.071866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.898173 seconds.
+  path: Assets/Player/Prefabs/Player.prefab
+  artifactKey: Guid(14d9d2217940d4749a46cc363ee55d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Prefabs/Player.prefab using Guid(14d9d2217940d4749a46cc363ee55d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2123e17e196043c9a5a9381a36ffd7d') in 0.011593 seconds
+  Import took 0.015081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.649273 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806d6681e8f8389cd2f66a7ae4ca6ac3') in 0.062981 seconds
+  Import took 0.068385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007675 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806d6681e8f8389cd2f66a7ae4ca6ac3') in 0.062933 seconds
+  Import took 0.068792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.699169 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2e34a01f901d3d5683f29cea58beb3') in 0.055671 seconds
+  Import took 0.060468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2e34a01f901d3d5683f29cea58beb3') in 0.065655 seconds
+  Import took 0.068816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.289448 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea919c16b1928ceb6212c1284eaa0e1a') in 0.059332 seconds
+  Import took 0.065353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006073 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea919c16b1928ceb6212c1284eaa0e1a') in 0.059966 seconds
+  Import took 0.064186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.908106 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b414aa3dcaf09b83d6632b75827ef6d2') in 0.062537 seconds
+  Import took 0.066881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009264 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b414aa3dcaf09b83d6632b75827ef6d2') in 0.061593 seconds
+  Import took 0.066939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.857541 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45aced32f7ea22eaa8c789ef502e7e20') in 0.061876 seconds
+  Import took 0.066641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003007 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45aced32f7ea22eaa8c789ef502e7e20') in 0.062521 seconds
+  Import took 0.067341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.445714 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce21ddaf1871f06901ac49be20c4cf3') in 0.060926 seconds
+  Import took 0.065686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.597759 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f384016bca64f889c577e87b8cd8f5cd') in 0.083454 seconds
+  Import took 0.087153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.201113 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be3442fbbe92d8796d1d17866fe48ae') in 0.060000 seconds
+  Import took 0.068821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.099384 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877f75e9281d7925ab10fe46814d0719') in 0.066201 seconds
+  Import took 0.070356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001226 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk (1).fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877f75e9281d7925ab10fe46814d0719') in 0.059214 seconds
+  Import took 0.062757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.426076 seconds.
+  path: Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx
+  artifactKey: Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/knight_d_pelegrini@Sneak Walk.fbx using Guid(5c994c007c042c945b73ce6e850c40e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d77542a85287b31eb592eec64b6b46') in 0.057761 seconds
+  Import took 0.062052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.431886 seconds.
+  path: Assets/Player/Animations/Walk Crouch.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Walk Crouch.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fc3be014a431b0ab1345bfc1147be5') in 0.079404 seconds
+  Import took 0.083610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.476649 seconds.
+  path: Assets/Player/Animations/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c327a272b8e8b3e36262c937c6e2d7') in 0.068266 seconds
+  Import took 0.071975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.802077 seconds.
+  path: Assets/Player/Animations/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b21535142d2c9661acf16efd5ca861') in 0.068726 seconds
+  Import took 0.072391 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2024.
+Total: 2.400000 ms (FindLiveObjects: 0.159000 ms CreateObjectMapping: 0.043400 ms MarkObjects: 2.053000 ms  DeleteObjects: 0.143700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2027.
+Total: 3.074100 ms (FindLiveObjects: 0.178600 ms CreateObjectMapping: 0.105100 ms MarkObjects: 2.702300 ms  DeleteObjects: 0.087000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.554 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 4.501800 ms (FindLiveObjects: 0.304400 ms CreateObjectMapping: 0.104200 ms MarkObjects: 4.027200 ms  DeleteObjects: 0.064100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2033.
+Total: 2.902100 ms (FindLiveObjects: 0.247500 ms CreateObjectMapping: 0.075000 ms MarkObjects: 2.463500 ms  DeleteObjects: 0.114200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1024.685003 seconds.
+  path: Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx
+  artifactKey: Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx using Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565a12f320ffb7eb0dc3a1b4c84e4d35') in 0.144989 seconds
+  Import took 0.149074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.297352 seconds.
+  path: Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx
+  artifactKey: Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx using Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b914f68dc40457484864f781525f48a9') in 0.056663 seconds
+  Import took 0.061125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.090540 seconds.
+  path: Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx
+  artifactKey: Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx using Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731cf0e8fca069c26420a243a4ef3c5b') in 0.055254 seconds
+  Import took 0.058623 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 2.061700 ms (FindLiveObjects: 0.160900 ms CreateObjectMapping: 0.050800 ms MarkObjects: 1.762500 ms  DeleteObjects: 0.086500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.314354 seconds.
+  path: Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx
+  artifactKey: Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/knight_d_pelegrini@Mutant Walking.fbx using Guid(be6723edaba5a8b4c9e7cb46be24faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91299cf373a627d16182b678e68dfd22') in 0.110351 seconds
+  Import took 0.113585 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 2.856300 ms (FindLiveObjects: 0.335900 ms CreateObjectMapping: 0.116200 ms MarkObjects: 2.330400 ms  DeleteObjects: 0.071900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2044.
+Total: 2.867800 ms (FindLiveObjects: 0.232800 ms CreateObjectMapping: 0.057500 ms MarkObjects: 2.517900 ms  DeleteObjects: 0.058000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 400.007913 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx
+  artifactKey: Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx using Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac742913cec554ad7f87ba3dd70b4ee9') in 0.100082 seconds
+  Import took 0.104460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.675303 seconds.
+  path: Assets/Player/Animations/PlayerController.controller
+  artifactKey: Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/PlayerController.controller using Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197ffc96abbe0b19659faf4154aa0caa') in 0.307866 seconds
+  Import took 0.311346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.174903 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx
+  artifactKey: Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx using Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e931df8a6f7bc81f2c9edb33df4ba4a') in 0.035560 seconds
+  Import took 0.039248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.222030 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx
+  artifactKey: Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx using Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dba64c23c057bab4a456440800017f0') in 0.034112 seconds
+  Import took 0.038776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001819 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx
+  artifactKey: Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking2.fbx using Guid(85448652e84d7594cab9f022518dce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dba64c23c057bab4a456440800017f0') in 0.036031 seconds
+  Import took 0.039486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.375158 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx
+  artifactKey: Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx using Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a72064064abf01cd5e3250f9faa868') in 0.032462 seconds
+  Import took 0.036400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.977257 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx
+  artifactKey: Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx using Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2060040cb096bbd946f389d12b49c91b') in 0.036341 seconds
+  Import took 0.040108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.231935 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx
+  artifactKey: Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Crouched Walking.fbx using Guid(7fce79e02e18c424e8c810282a80ba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db2086102fcd2f8b18dd5db956c19be') in 0.037837 seconds
+  Import took 0.041419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.760055 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e04d597597d9bc92ed226b51ae256b') in 0.013165 seconds
+  Import took 0.017356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.203124 seconds.
+  path: Assets/Player/Animations/locomotion/m@StrafeRight.fbx
+  artifactKey: Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@StrafeRight.fbx using Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6bb9d37b4bceed288d7b2018e31507') in 0.009838 seconds
+  Import took 0.013315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.211987 seconds.
+  path: Assets/Player/Animations/locomotion/m@StrafeRight.fbx
+  artifactKey: Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@StrafeRight.fbx using Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ee02d9249bc8a2fe4c5642d68fbccd') in 0.005884 seconds
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.549577 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1a5afc2829400893f882d714f7cefb') in 0.005691 seconds
+  Import took 0.009711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.400479 seconds.
+  path: Assets/Player/Animations/locomotion/Jump.fbx
+  artifactKey: Guid(dc22617ab51553145be28998d0b92dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Jump.fbx using Guid(dc22617ab51553145be28998d0b92dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcb957039e2371797fb13fb677dbaa9') in 0.100975 seconds
+  Import took 0.104798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.073259 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c2202443bd5eb8d4a1625bd16f8bab') in 0.033479 seconds
+  Import took 0.037130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.282371 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35d5eabec7afc871004b3504b42c4ab0') in 0.033414 seconds
+  Import took 0.037013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.443976 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361d37e5a4252907396ce0596963591e') in 0.037749 seconds
+  Import took 0.040983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.822330 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988825528f5fcc442f7dc7d06b27888f') in 0.044028 seconds
+  Import took 0.047857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001148 seconds.
+  path: Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Ch09_nonPBR@Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988825528f5fcc442f7dc7d06b27888f') in 0.036759 seconds
+  Import took 0.041294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.111515 seconds.
+  path: Assets/Player/Animations/locomotion/Jump2.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Jump2.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce30c93c5170ff2175a0f72d553bf4b4') in 0.042142 seconds
+  Import took 0.045689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.674134 seconds.
+  path: Assets/Player/Animations/locomotion/Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82359084abe4d59c228c3f7b81e5ef37') in 0.040957 seconds
+  Import took 0.044097 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2048.
+Total: 2.862600 ms (FindLiveObjects: 0.148600 ms CreateObjectMapping: 0.045000 ms MarkObjects: 2.582000 ms  DeleteObjects: 0.084900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.540865 seconds.
+  path: Assets/Player/Animations/locomotion/Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fca1daa8efbe5dda676b95f8c02d3a') in 0.117635 seconds
+  Import took 0.121844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Player/Animations/locomotion/Jump.fbx
+  artifactKey: Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/Jump.fbx using Guid(ac9cfdaddba0a904f8dc0b485d214e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fca1daa8efbe5dda676b95f8c02d3a') in 0.033254 seconds
+  Import took 0.037333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.956907 seconds.
+  path: Assets/Player/Animations/locomotion/m@StrafeRight.fbx
+  artifactKey: Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@StrafeRight.fbx using Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b6b3a5edfe915dc476e71f754414fa') in 0.006714 seconds
+  Import took 0.010557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.620473 seconds.
+  path: Assets/Player/Animations/locomotion/m@StrafeRight.fbx
+  artifactKey: Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@StrafeRight.fbx using Guid(cef235dc01c6d514a889b33121e08510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c59db670655477d2f6314dcc5e35e2f') in 0.005399 seconds
+  Import took 0.009142 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.402 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2052.
+Total: 2.504300 ms (FindLiveObjects: 0.175200 ms CreateObjectMapping: 0.051400 ms MarkObjects: 2.210300 ms  DeleteObjects: 0.065900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.962245 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22534eec8b9291ed992991ac29dbc95d') in 0.053502 seconds
+  Import took 0.059338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.476404 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20fd44072009d0a86d2fb03d4255370') in 0.008575 seconds
+  Import took 0.014186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.425688 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e4b90bf138d60f6738f23f0ac21ad9') in 0.007819 seconds
+  Import took 0.013249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.667930 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772b9e8b2aa255652db3de39c53c98cd') in 0.006825 seconds
+  Import took 0.010356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.888538 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aad87ef0596781f2daa2f7989dfe08f') in 0.008152 seconds
+  Import took 0.012413 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003812 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2055.
+Total: 3.493600 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.074600 ms MarkObjects: 3.145500 ms  DeleteObjects: 0.073100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.623035 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7341ac059a396594e0206d9cc3442630') in 0.042386 seconds
+  Import took 0.046047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.323593 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e000c8c7476ce72e3d6cb9b5bba6105f') in 0.009256 seconds
+  Import took 0.013817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.354276 seconds.
+  path: Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/m@RapidStrafeRight.fbx using Guid(73cfced0df106bc4ab1f32b098c3f134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2c3e7f8c60dd5bc44d51ccb92ec89c') in 0.009262 seconds
+  Import took 0.013816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 882.843390 seconds.
+  path: Assets/Animation/Player
+  artifactKey: Guid(a8202d75dcd9d4642957950d672aa43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player using Guid(a8202d75dcd9d4642957950d672aa43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf5cec2935438ff7401dc81d1920a30') in 0.009249 seconds
+  Import took 0.013772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.538604 seconds.
+  path: Assets/Animation/Player/locomotion
+  artifactKey: Guid(07ed6cd629bcde64ab449080ac51ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/locomotion using Guid(07ed6cd629bcde64ab449080ac51ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5de7de3c6e563b867a7cea6262cf452') in 0.002365 seconds
+  Import took 0.007789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.772415 seconds.
+  path: Assets/Animation/Player/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/locomotion/m@RapidStrafeRight.fbx using Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09dc53a629523e31588798dde2bb02ca') in 0.015822 seconds
+  Import took 0.019596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005757 seconds.
+  path: Assets/Animation/Player/locomotion/m@RapidStrafeRight.fbx
+  artifactKey: Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player/locomotion/m@RapidStrafeRight.fbx using Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09dc53a629523e31588798dde2bb02ca') in 0.008105 seconds
+  Import took 0.012246 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005054 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.460 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2058.
+Total: 3.173800 ms (FindLiveObjects: 0.339000 ms CreateObjectMapping: 0.121800 ms MarkObjects: 2.634000 ms  DeleteObjects: 0.077200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.134252 seconds.
+  path: Assets/Player/Animations/m@RapidStrafeRight.fbx
+  artifactKey: Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/m@RapidStrafeRight.fbx using Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8947e263a8ba6fbd30d6a69daa8b0e') in 0.042032 seconds
+  Import took 0.045957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Player/Animations/m@RapidStrafeRight.fbx
+  artifactKey: Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/m@RapidStrafeRight.fbx using Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8947e263a8ba6fbd30d6a69daa8b0e') in 0.007804 seconds
+  Import took 0.011697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.867653 seconds.
+  path: Assets/Player/Animations/m@RapidStrafeRight.fbx
+  artifactKey: Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/m@RapidStrafeRight.fbx using Guid(4eb6fc449fe1244efadf654d6bc88df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814155dd76a0e637c2689525466ee558') in 0.009616 seconds
+  Import took 0.015395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.793715 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb382461dc7858b1eb3b3b0cb0b1093') in 0.162747 seconds
+  Import took 0.169109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002259 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb382461dc7858b1eb3b3b0cb0b1093') in 0.058507 seconds
+  Import took 0.063368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.497167 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2fc5793e0fc1dec3ec7d6d78e491203') in 0.079646 seconds
+  Import took 0.086492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001388 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2fc5793e0fc1dec3ec7d6d78e491203') in 0.072607 seconds
+  Import took 0.077979 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2062.
+Total: 2.155200 ms (FindLiveObjects: 0.280700 ms CreateObjectMapping: 0.092100 ms MarkObjects: 1.728200 ms  DeleteObjects: 0.053000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.365 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2065.
+Total: 2.534200 ms (FindLiveObjects: 0.190500 ms CreateObjectMapping: 0.077800 ms MarkObjects: 2.180000 ms  DeleteObjects: 0.084300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.057 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 2.001600 ms (FindLiveObjects: 0.183300 ms CreateObjectMapping: 0.070200 ms MarkObjects: 1.658500 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 424.386397 seconds.
+  path: Assets/Player/Animations/PlayerController.controller
+  artifactKey: Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/PlayerController.controller using Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1c76d3dd1d0ff7ca1f9b830188d64b') in 0.032317 seconds
+  Import took 0.038520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 338.178341 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d69d87a2adf2307d6a1eaeb658458a') in 0.149514 seconds
+  Import took 0.153879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.956729 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb868426c228c4c2421d9f04fdb4662') in 0.082690 seconds
+  Import took 0.089068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.801055 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138ceaf8d29d2f7d5a6111af34db9528') in 0.076660 seconds
+  Import took 0.083424 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2072.
+Total: 2.212100 ms (FindLiveObjects: 0.166200 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.914200 ms  DeleteObjects: 0.085700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.108411 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0984de7a2cec1bfcd24961707bd352a') in 0.133368 seconds
+  Import took 0.139162 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004881 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.468 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2076.
+Total: 3.060300 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.100900 ms MarkObjects: 2.649500 ms  DeleteObjects: 0.055800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.560648 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dacfed17513350efcd1f0b3d39fd0843') in 0.159556 seconds
+  Import took 0.164237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.502919 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c02ce773ce169b640c7faa18e7015f5') in 0.065567 seconds
+  Import took 0.071463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c02ce773ce169b640c7faa18e7015f5') in 0.073934 seconds
+  Import took 0.078303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.391511 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34703ddd66cebd8fea5cf86423035e7') in 0.088005 seconds
+  Import took 0.092688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.624563 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0ff3b05e655714bc89f47ee576e885') in 0.072828 seconds
+  Import took 0.077122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002557 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0ff3b05e655714bc89f47ee576e885') in 0.077194 seconds
+  Import took 0.083093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.859433 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b5937b3e9bfb678ffd06f45dfb81d7') in 0.081670 seconds
+  Import took 0.087566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 748.628972 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '223ffa4d1148d1c45388682a91351764') in 0.064947 seconds
+  Import took 0.069451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.766641 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881c92f42c5e843dcf33f859adeb8501') in 0.059122 seconds
+  Import took 0.064888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.871910 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a55d667414047eb1a2ed8a4b488103') in 0.060461 seconds
+  Import took 0.065112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.210593 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe9185b9fa47d4c6c645a7afc4c8fd3') in 0.058606 seconds
+  Import took 0.063491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Player/Animations/locomotion/CrouchWalk.fbx
+  artifactKey: Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/locomotion/CrouchWalk.fbx using Guid(4a30e8ea1f4d1964589c979b373b1b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe9185b9fa47d4c6c645a7afc4c8fd3') in 0.065600 seconds
+  Import took 0.070360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.811482 seconds.
+  path: Assets/Player/Mesh
+  artifactKey: Guid(b9330fc6283d11642ad3b6feb2808e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Mesh using Guid(b9330fc6283d11642ad3b6feb2808e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4eea82434f7ec589bdbed927fb8c2f4') in 0.008585 seconds
+  Import took 0.012767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.900094 seconds.
+  path: Assets/Player/Prefabs/Player 1.prefab
+  artifactKey: Guid(54fbbc928fe93634bbc8d323d3306d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Prefabs/Player 1.prefab using Guid(54fbbc928fe93634bbc8d323d3306d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf10c93725135bc105dd8abcc14e11af') in 0.068493 seconds
+  Import took 0.073205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.966203 seconds.
+  path: Assets/Player/Prefabs/Player.prefab
+  artifactKey: Guid(14d9d2217940d4749a46cc363ee55d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Prefabs/Player.prefab using Guid(14d9d2217940d4749a46cc363ee55d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56d2c33ba380a3596f1ce91c2a6474a') in 0.047200 seconds
+  Import took 0.052154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.015863 seconds.
+  path: Assets/Player/Mesh/Polyart_Mesh.fbx
+  artifactKey: Guid(860793eb3324391468f1c120a75ec049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Mesh/Polyart_Mesh.fbx using Guid(860793eb3324391468f1c120a75ec049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c22b445108a09bce65e9f2d2e159cf') in 0.076063 seconds
+  Import took 0.079924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.880079 seconds.
+  path: Assets/Player/Animations/PlayerController.controller
+  artifactKey: Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/PlayerController.controller using Guid(d548eeab157271f4b9a02fcdb6747a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1d90a2ac4cb1789bd7096cf78974d5') in 0.012762 seconds
+  Import took 0.016458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006625 seconds.
+  path: Assets/Player/Scripts/PlayerController.cs
+  artifactKey: Guid(3ecc52c0f0ef5f741bb8f1502a30f218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Scripts/PlayerController.cs using Guid(3ecc52c0f0ef5f741bb8f1502a30f218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0fdae477bd82bf03b7437eccc9db21') in 0.007597 seconds
+  Import took 0.010288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029373 seconds.
+  path: Assets/Player/Prefab
+  artifactKey: Guid(2836c3122899a62479ff1857a3c18c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Prefab using Guid(2836c3122899a62479ff1857a3c18c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7e140c2cf4b03a678d80d99c853db6') in 0.005646 seconds
+  Import took 0.008347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017919 seconds.
+  path: Assets/Player/Scripts/PlayerCamera.cs
+  artifactKey: Guid(181dd3982343b854dad0d8364a11f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Scripts/PlayerCamera.cs using Guid(181dd3982343b854dad0d8364a11f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d942b7299d9c8e2a83e427150c910d5') in 0.005755 seconds
+  Import took 0.008646 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
